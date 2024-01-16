@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Hola chemistry sucks\n");
 	return 0;
 }
